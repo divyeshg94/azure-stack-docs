@@ -26,7 +26,7 @@ Remove a physical node from your deployment. You can use this command if a physi
 
 ## Examples
 
-### Add a new physical node
+### Remove a physical node
 ```powershell
 Remove-AksHciNode -nodeName newnode
 ```
